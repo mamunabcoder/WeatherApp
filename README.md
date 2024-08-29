@@ -1,9 +1,9 @@
 Weatehr app is sample app
 
 Webhook:
-Clone the nodejs-webhook-server-sample.\n
-Install node using home brew.\n
-Install npm into nodejs-webhook-server-sample\n
+Clone the nodejs-webhook-server-sample.<br/>
+Install node using home brew.<br/>
+Install npm into nodejs-webhook-server-sample<br />
 npm run dev
 
 Install hookdeck::
