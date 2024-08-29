@@ -1,15 +1,15 @@
 Weatehr app is sample app
 
 Webhook:
-Clone the nodejs-webhook-server-sample.<br/>
-Install node using home brew.<br/>
+Clone the nodejs-webhook-server-sample.<br />
+Install node using home brew.<br />
 Install npm into nodejs-webhook-server-sample<br />
 npm run dev
 
 Install hookdeck::
-npm install hookdeck-cli -g\n
-Create hookdeck events::\n
-hookdeck listen 1337\n
+npm install hookdeck-cli -g<br />
+Create hookdeck events::<br />
+hookdeck listen 1337<br />
 Name: Github_CI
 
 Jenkins iOS configuration refs:
